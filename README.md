@@ -17,32 +17,28 @@ com a equipe e manter o código limpo e entendível para manutenção.
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="NetBeans"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" 
@@ -50,8 +46,7 @@ com a equipe e manter o código limpo e entendível para manutenção.
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="IntelliJ"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
@@ -87,16 +82,14 @@ com a equipe e manter o código limpo e entendível para manutenção.
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="LinkedIn"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GitHub"
     width="30px" 
     style="padding-right: 10px;"
     background-color: white
