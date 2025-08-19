@@ -63,20 +63,21 @@ com a equipe e manter o código limpo e entendível para manutenção.
 
 ### 📊 Estatísticas
 
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ravi31-santos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ravi31-santos&theme=merko&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi31-santos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi31-santos&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
