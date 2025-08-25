@@ -3,7 +3,7 @@
 **`Dev Back-End`**
 
 Rhavelly Souza Dos Santos
-Beck-End | JAVA
+Back-End | JAVA
 Formado como técnico em informática na FAETEC 07/2025.
 Conhecimentos em diversas linguagens de programação, porém mantive foco em JAVA,
 onde desejo aprimorar e aperfeiçoar minhas habilidades. Bastante ouvinte e
