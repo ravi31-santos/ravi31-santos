@@ -15,69 +15,10 @@ com a equipe e manter o código limpo e entendível para manutenção.
 
 ### Linguagens, Tecnologias e ferramentas
 
-<img 
-    align="left" 
-    alt="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NetBeans"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="IntelliJ"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="GIT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Pyton"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,git,spring,postgresql,python&theme=dark)](https://skillicons.dev)
 
 <br/>
-<br/>
+
 
 ### 📊 Estatísticas
 
@@ -103,18 +44,4 @@ com a equipe e manter o código limpo e entendível para manutenção.
 <br/><br/><br/><br/>
 ###  Redes Sociais
 
-<img 
-    align="left" 
-    alt="LinkedIn"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-/>
-<img 
-    align="left" 
-    alt="GitHub"
-    width="30px" 
-    style="padding-right: 10px;"
-    background-color: white
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
+[![My Skills](https://skillicons.dev/icons?i=linkedin,github&theme=dark)](https://skillicons.dev)
