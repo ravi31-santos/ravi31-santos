@@ -44,4 +44,4 @@ com a equipe e manter o código limpo e entendível para manutenção.
 <br/><br/><br/><br/><br/>
 ###  Redes Sociais
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,github,instagram,gmail&theme=dark)](https://skillicons.dev)
