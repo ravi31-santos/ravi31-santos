@@ -69,10 +69,10 @@ com a equipe e manter o código limpo e entendível para manutenção.
 
 <img 
     align="left" 
-    alt="Google"
+    alt="Pyton"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 
