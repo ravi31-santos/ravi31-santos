@@ -2,7 +2,7 @@
 
 **`BackEnd Developer`**
 
-Rhavelly Souza Dos Santos
+
 Back-End | JAVA | FAETEC Graduete 
 
 I am a Backend Developer, graduated as a Computer Technician from FAETEC. I have experience with Java at a junior level. I have basic to intermediate proficiency in English and basic knowledge of Spanish. I am eager to grow professionally and contribute to innovative projects.
