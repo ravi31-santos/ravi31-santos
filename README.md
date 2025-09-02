@@ -1,26 +1,26 @@
 # 💻 Rhavelly Souza dos Santos
 
-**`Dev Back-End`**
+**`BackEnd Developer`**
 
 Rhavelly Souza Dos Santos
-Back-End | JAVA
-Formado como técnico em informática na FAETEC 07/2025.
-Conhecimentos em diversas linguagens de programação, porém mantive foco em JAVA,
-onde desejo aprimorar e aperfeiçoar minhas habilidades. Bastante ouvinte e
-comunicativo, foco sempre em ajudar e aprender mais ! Disposto a solucionar problemas
-com a equipe e manter o código limpo e entendível para manutenção.
+Back-End | JAVA | FAETEC Graduete 
+
+I am a Backend Developer, graduated as a Computer Technician from FAETEC. I have experience with Java at a junior level. I have basic to intermediate proficiency in English and basic knowledge of Spanish. I am eager to grow professionally and contribute to innovative projects.
+
+### Languages (Human)
+<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48" /> <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48" /> <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48" />
 
 
 ---
 
-### Linguagens, Tecnologias e ferramentas
+### Languages, Technologies & Frameworks and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,git,spring,postgresql,python&theme=dark)](https://skillicons.dev)
 
 <br/>
 
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 
 <p>
@@ -29,19 +29,19 @@ com a equipe e manter o código limpo e entendível para manutenção.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ravi31-santos&theme=merko&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ravi31-santos&theme=merko" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi31-santos&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi31-santos&theme=merko&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
 
 <br/><br/><br/><br/><br/>
-###  Redes Sociais
+###  Social Medias
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,github,instagram,gmail&theme=dark)](https://skillicons.dev)
