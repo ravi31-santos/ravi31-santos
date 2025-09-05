@@ -41,7 +41,7 @@ I am a Backend Developer, graduated as a Computer Technician from FAETEC. I have
 
 </p>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 ###  Social Medias
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,github,instagram,gmail&theme=dark)](https://skillicons.dev)
